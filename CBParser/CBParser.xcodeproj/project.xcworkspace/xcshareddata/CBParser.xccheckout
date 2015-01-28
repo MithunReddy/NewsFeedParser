@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BBCBFCD9-B5DC-454A-9312-9E458D57AD6C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CBParser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>82AFA54DB8FCC9FB176131FD6ED2FA4239807730</key>
+		<string>https://github.com/MithunReddy/NewsFeedParser.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CBParser/CBParser.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>82AFA54DB8FCC9FB176131FD6ED2FA4239807730</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MithunReddy/NewsFeedParser.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>82AFA54DB8FCC9FB176131FD6ED2FA4239807730</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>82AFA54DB8FCC9FB176131FD6ED2FA4239807730</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CBParser</string>
+		</dict>
+	</array>
+</dict>
+</plist>
